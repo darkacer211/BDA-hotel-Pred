@@ -1,0 +1,32 @@
+[
+    {
+        "task": "Ingestion",
+        "pandas_seconds": 0.346,
+        "pyspark_seconds": 8.062,
+        "spark_overhead_ratio": 23.32
+    },
+    {
+        "task": "Data Cleaning",
+        "pandas_seconds": 0.11,
+        "pyspark_seconds": 2.49,
+        "spark_overhead_ratio": 22.53
+    },
+    {
+        "task": "Multi-dim Aggregation",
+        "pandas_seconds": 0.031,
+        "pyspark_seconds": 4.272,
+        "spark_overhead_ratio": 138.04
+    },
+    {
+        "task": "Feature Engineering",
+        "pandas_seconds": 0.017,
+        "pyspark_seconds": 0.711,
+        "spark_overhead_ratio": 42.07
+    },
+    {
+        "task": "Total Pipeline",
+        "pandas_seconds": 0.504,
+        "pyspark_seconds": 15.534,
+        "spark_overhead_ratio": 30.82
+    }
+]

@@ -1,0 +1,21 @@
+[monthly_seasonality]
+Booking volume exhibits pronounced summer seasonality, peaking between May and August for both hotels, while City Hotel consistently captures roughly double the booking volume of Resort Hotel year-round.
+
+[cancellation_by_hotel]
+City Hotel experiences a significantly higher cancellation rate (41.9%) compared to Resort Hotel (28.0%), highlighting the need for more aggressive overbooking controls in urban properties.
+
+[lead_time_distribution]
+Bookings made far in advance display a dramatically higher likelihood of cancellation, with confirmed bookings heavily concentrated below 30 days of lead time.
+
+[market_segment_cancellation]
+Online Travel Agencies (OTAs) and Group bookings exhibit extreme cancellation rates exceeding 40% and 60%, whereas Direct bookings and Corporate channels maintain substantially lower cancellation frequencies (<20%).
+
+[deposit_type_impact]
+Non-refundable deposits paradoxically exhibit an astonishing cancellation rate (>99%), because hotels systematically apply non-refundable restrictions to high-risk group reservations and travel agents who subsequently cancel en masse.
+
+[country_distribution]
+Portugal (PRT) is the primary domestic market with the highest booking volume but also an elevated cancellation rate (~56%), whereas international European inbound markets like the UK, France, and Germany show notably lower cancellations (15%–20%).
+
+[adr_trends]
+Resort Hotel pricing spikes aggressively in July and August (>€150/night) due to vacation demand, whereas City Hotel maintains higher and more resilient room rates across autumn and spring (€100–€120/night).
+

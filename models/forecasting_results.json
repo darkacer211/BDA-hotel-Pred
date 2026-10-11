@@ -1,0 +1,30 @@
+[
+    {
+        "hotel": "City Hotel",
+        "model": "Prophet",
+        "rmse": 22.17,
+        "mae": 16.13,
+        "mape": 23.46
+    },
+    {
+        "hotel": "City Hotel",
+        "model": "SARIMA",
+        "rmse": 21.89,
+        "mae": 17.63,
+        "mape": 29.42
+    },
+    {
+        "hotel": "Resort Hotel",
+        "model": "Prophet",
+        "rmse": 8.07,
+        "mae": 6.33,
+        "mape": 19.71
+    },
+    {
+        "hotel": "Resort Hotel",
+        "model": "SARIMA",
+        "rmse": 18.74,
+        "mae": 14.71,
+        "mape": 44.84
+    }
+]
